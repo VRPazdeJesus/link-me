@@ -32,7 +32,7 @@ body{
     font-size: 25px;
 }
 .space {
-    margin-right: 30px;
+    padding-bottom: 25px;
 }
 .btn{
     border: 1px solid transparent;
