@@ -19,12 +19,12 @@ header{
     border: 5px solid white;
 }
 .text{
-    font-size: 30px;
+    font-size: 20px;
 }
 .link {
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
 }
 /* O hover acontece quando o mouse passa por cima */
 .link:hover {
