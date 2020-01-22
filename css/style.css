@@ -18,6 +18,14 @@ header{
     width: 30%;
     border: 5px solid white;
 }
+/* 768px e acima */
+@media (min-width: 768px) {
+    .profile{
+        border-radius: 50%;
+        width: 15%;
+        border: 5px solid white;
+    }
+}
 .text{
     font-size: 20px;
 }
@@ -37,4 +45,7 @@ header{
 }
 .space-top {
     padding-top: 25px;
+}
+.space-margin {
+    margin-bottom: 10px;
 }
